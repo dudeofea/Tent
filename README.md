@@ -4,7 +4,7 @@ Tent
 Progress 0%
 
 About
-=====
+-----
 
 So far this is just an idea that I'm building so that I can make freelance websites the way I want to make them.
 I don't believe in charging for software that I've already written, or put in other terms, I don't believe in selling a "template" website, or developing on a paid website template.
@@ -27,3 +27,10 @@ This project is licensed under the AGPL with the following added conditions:
 * All plugins (code modules added to this website that could not function without this website and whose purpose is use with this website) that are developed for this website must be GPL licensed (any version of GPL / LGPL / AGPL) **with the exception of non-text content which may be licensed under any license the author wishes**
 * To make things clearer, text content in a plugin like CSS, JS, HTML (or anything which will be compiled to CSS, JS, HTML) must be GPL licensed
 * Text content (ad copy), and non-text content in plugins can be bundled separately or stored elsewhere before rendering
+
+Support
+-------
+
+Feel free to fork this repo, modify it even. I will accept any pull request right away unless I feel it goes against the "core values" of this app, in which case I will kindly ask for you to refactor your changes into an optional build flag / config option and then I will merge it. You probably put a lot of effort into that pull request so you probably don't want strangers bickering about your code that you gave away for free. Pull requests will be unmerged and removed if later deemed harmful to the app (ex: an injected vulnerability or hack). I will not remove "healthy" or non-harmful pull requests without consulting you first about what to do (ex: If a new version of the app breaks things, or users have complained about the feature, etc).
+
+I offer no support aside from documentation bundled with the app, if you'd like me to work on a certain feature, please pay me. Otherwise I am under no obligation to fix anyone's problems or implement any features in any order.
